@@ -6,3 +6,4 @@ ipykernel
 langchain-groq
 groq
 streamlit
+langgraph-checkpoint-sqlite
