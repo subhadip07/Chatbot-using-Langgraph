@@ -10,3 +10,5 @@ wheels/
 .venv
 .env
 chatbot.db
+chatbot.db-wal
+chatbot.db-shm
